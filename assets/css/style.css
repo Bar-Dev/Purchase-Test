@@ -1,0 +1,163 @@
+
+
+/* ------- Navbar ------- */
+
+.navbar h1 {
+    padding-left: 30px;
+}
+
+#navbar-colors {
+    background-color: #1f1f58 !important;
+    border-top: 10px solid #E7EFC5;
+    border-bottom: 10px solid #E7EFC5;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #777777;
+}
+
+
+/* ------ Matterport ------- */
+
+.section {
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+}
+
+.section-light{
+    background-color: #f4f4f4;
+    color: #666
+}
+
+.video-content {
+    position: relative;
+     width: 0 auto;
+     height: 0;
+     padding-bottom: 56.25%;
+     margin-top: 102px;
+}
+
+.video-box {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100% !important;
+     height: 100%;
+ }
+
+/* ------ Product Page ------- */
+
+.iphone {
+    width: 80%;
+    height: auto;
+    margin-top: 102px;
+}
+
+/* ------ Footer ------- */
+
+ footer {
+    background-color: #1F1F58 !important;
+    border-top: 10px solid #E7EFC5;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
+}
+
+
+
+.pdf-lists {
+    font-size: 18px;
+    color: #fafafa;
+    text-align: center;
+    padding-left: 0px;
+    text-decoration: none !important;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.contact-list button {
+    text-align: left;
+    color: #fff;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.pdf-lists:hover {
+    color: #E7EFC5;
+}
+
+#bike-shop-list {
+    margin: 0px 0px 3px 0px;
+}
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #1F1F58;
+    background: #E7EFC5;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: rgb(255, 255, 255);
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+#retail, #auctioneers, #hotels {
+    margin-bottom: 0px;
+    padding: 0px;
+    color: #E7EFC5;
+    text-decoration: none !important;
+}
+
+#footer-details {
+    padding: 20px;
+}
+
+#footer-middle {
+    text-align: left;
+    padding-right: 150px;
+}
+
+#footer-right {
+    text-align: right;
+}
+
+#footer-right h5 {
+    text-align: right;
+}
+
+.social-links {
+    text-align: right;
+}
+
+.social-link-spacing {
+    display: inline-block;
+}
+
+.contact-list a {
+    text-decoration: none;
+    color: #fff !important;
+}
+
+.contact-list a:hover {
+    color: #E7EFC5 !important;
+}
