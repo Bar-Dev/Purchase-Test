@@ -21,12 +21,16 @@
 
 .section {
     text-align: center;
-    padding: 30px 30px 30px 30px;
+    padding: 50px 50px 50px 50px;
 }
 
 .section-light{
     background-color: #f4f4f4;
     color: #666
+}
+
+.template-section {
+    margin-top: 102px;
 }
 
 .video-content {
@@ -50,13 +54,17 @@
 .iphone {
     width: 80%;
     height: auto;
-    margin-top: 102px;
 }
 
 .tagLink {
     text-decoration: underline;
     color: red !important;
     cursor: pointer;
+}
+
+.color-options {
+    padding-top: 50px;
+    text-align: left;
 }
 
 /* ------ Footer ------- */
