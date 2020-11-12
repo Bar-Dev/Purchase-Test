@@ -53,9 +53,9 @@
     margin-top: 102px;
 }
 
-a.tagLink {
+.tagLink {
     text-decoration: underline;
-    color: red;
+    color: red !important;
     cursor: pointer;
 
 /* ------ Footer ------- */
